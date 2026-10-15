@@ -391,6 +391,10 @@ footer {
     border-radius: inherit;
 }
 
+.photo-placeholder {
+    overflow: hidden;
+    border-radius: 45% 55% 50% 50%;
+}
 
 /* ===== PORTFOLIO CATEGORIES ===== */
 
