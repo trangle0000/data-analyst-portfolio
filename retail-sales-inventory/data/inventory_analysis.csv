@@ -1,0 +1,9 @@
+PRODUCT_NAME,CATEGORY,STOCK_QUANTITY,REORDER_LEVEL,STOCK_STATUS
+Winter Jacket,Outerwear,8,15,Reorder Needed
+Casual Blouse,Tops,12,20,Reorder Needed
+Summer Dress,Dresses,15,20,Reorder Needed
+Cardigan,Outerwear,18,20,Reorder Needed
+Midi Skirt,Bottoms,60,15,Sufficient Stock
+Denim Jeans,Bottoms,80,25,Sufficient Stock
+Leggings,Bottoms,95,30,Sufficient Stock
+Cotton T-Shirt,Tops,120,30,Sufficient Stock

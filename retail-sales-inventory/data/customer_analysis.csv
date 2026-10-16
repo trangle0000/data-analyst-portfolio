@@ -1,0 +1,6 @@
+CUSTOMER_ID,CUSTOMER_NAME,CITY,COUNTRY,TOTAL_ORDERS,TOTAL_SPENT
+3,Maria Nowak,Krakow,Poland,2,345
+5,David Lee,Warsaw,Poland,1,205
+1,Anna Kowalska,Warsaw,Poland,2,193
+4,Emma Brown,Berlin,Germany,1,129
+2,John Smith,London,UK,1,59
